@@ -1,4 +1,4 @@
-# NGC884-Photometry-Pipeline
+# NGC884-Photometry
 Complete astronomical data reduction and analysis pipeline developed in Python, customized for a set of observations of the open cluster NGC 884. The project processes raw observational FITS data, performs aperture photometry, and derives its fundamental astrophysical properties, including the Hertzsprung-Russell (H-R) diagram and the Initial Mass Function (IMF).
 
 ## Pipeline
